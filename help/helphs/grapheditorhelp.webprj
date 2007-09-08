@@ -3,7 +3,7 @@
   <project usePreviewPrefix="0" type="Local" previewPrefix="" name="Graph Editor Help" encoding="iso 8859-1" >
     <upload/>
     <author>Kjell Winblad</author>
-    <email>kjellw@cs.umu.se</email>
+    <email>kjellwinblad@gmail.com</email>
     <defaultDTD>-//W3C//DTD HTML 4.01 Transitional//EN</defaultDTD>
     <item modified_time="1179917400" url="editing_introduction.html" uploadstatus="1" />
     <item modified_time="1176903101" url="GraphEditor.hs" uploadstatus="1" />

@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2007  Kjell Winblad (kjellw@cs.umu.se)
+ * Copyright (C) 2007  Kjell Winblad (kjellwinblad@gmail.com)
  *
  * This program is free software; you can redistribute it and/or
  * modify it under the terms of the GNU General Public License
