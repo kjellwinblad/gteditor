@@ -1,0 +1,11 @@
+org.grapheditor.editor
+org.grapheditor.editor.exporters
+org.grapheditor.editor.graph
+org.grapheditor.editor.importers
+org.grapheditor.editor.listeners
+org.grapheditor.editor.menus
+org.grapheditor.editor.vertexrenders
+org.grapheditor.gui
+org.grapheditor.gui.menus
+org.grapheditor.gui.toolbars
+org.grapheditor.properties

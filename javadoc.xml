@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" author="true" classpath="lib/epsgraphics-1.0.0.jar:lib/BrowserLauncher2-10.jar:lib/jhall.jar:lib/xpp3_min-1.1.4c.jar:lib/graphhelp.jar:lib/xstream-1.2.1.jar" destdir="javadoc" doctitle="Graph Editor" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="org.grapheditor.editor.listeners,org.grapheditor.editor.vertexrenders,org.grapheditor.editor,org.grapheditor.gui,org.grapheditor.editor.exporters,org.grapheditor.gui.menus,org.grapheditor.editor.menus,org.grapheditor.properties,org.grapheditor.editor.graph,org.grapheditor.gui.toolbars,org.grapheditor.editor.importers" source="1.5" sourcepath="externiallibsrc:documentationhelpsrc:src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>

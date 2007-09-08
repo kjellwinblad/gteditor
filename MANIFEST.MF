@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: org.grapheditor.gui.GraphEditor
+Class-Path: xstream-1.2.1.jar xpp3_min-1.1.4c.jar jhall.jar BrowserLauncher2-10.jar graphhelp.jar jgraph.jar jgrapht-jdk1.5.jar

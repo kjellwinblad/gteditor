@@ -1,0 +1,42 @@
+/*
+ * Copyright (C) 2007  Kjell Winblad (kjellw@cs.umu.se)
+ *
+ * This program is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU General Public License
+ * as published by the Free Software Foundation; either version 2
+ * of the License, or (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+ */
+
+package org.grapheditor.properties;
+
+import java.awt.Component;
+
+/**
+ * A module that contains functionallity to modify settings for something. It
+ * has a method to save the changes and a method to get an editor component for
+ * the properties etc.
+ * 
+ * @author kjellw
+ */
+public interface PropertiesModule {
+	/**
+	 * Saves the settings to the properties
+	 */
+	public void save();
+
+	public Component getPropertiesEditor();
+
+	public String getPropertiesName();
+
+	public String getPropertiesDescription();
+
+}
