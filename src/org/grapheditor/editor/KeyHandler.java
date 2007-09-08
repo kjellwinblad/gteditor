@@ -23,7 +23,7 @@ import java.sql.Time;
 import java.util.Timer;
 import java.util.TimerTask;
 
-/**
+/** 
  * This class is a keyhandeler that is added to the graph component
  * GraphEditorPane to add some key operations.
  * 
