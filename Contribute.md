@@ -1,0 +1,3 @@
+The program has an open source license and the source code is available at http://code.google.com/p/gteditor . If you want to contribute you can became member of the project which gives you write access to the subversion server.
+
+I don't have much time for this project which I started as a Bachelor thesis project at Umeå University. I'm looking for someone that have time to take over the project, so if you feel that you want that, please contact me.
